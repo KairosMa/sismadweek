@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Tea Cup
+* source:	https://sketchfab.com/3d-models/japanese-tea-cup-506f16847d0a4565bdf5d4fa4c358546
+* author:	Sam Feng (https://sketchfab.com/fengyuan20000303)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Tea Cup" (https://sketchfab.com/3d-models/japanese-tea-cup-506f16847d0a4565bdf5d4fa4c358546) by Sam Feng (https://sketchfab.com/fengyuan20000303) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

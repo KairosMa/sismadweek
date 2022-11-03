@@ -1,11 +1,11 @@
 Model Information:
-* title:	Adventurer's Breakfast Sandwich
-* source:	https://sketchfab.com/3d-models/adventurers-breakfast-sandwich-2494dad986d947c58351076b7343877a
-* author:	Citrus (https://sketchfab.com/citrusfriendd)
+* title:	Kirby
+* source:	https://sketchfab.com/3d-models/kirby-180c0f5600e44517a431c9b488a548e1
+* author:	El Alquimista𓁞 (https://sketchfab.com/ElCanciller)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Adventurer's Breakfast Sandwich" (https://sketchfab.com/3d-models/adventurers-breakfast-sandwich-2494dad986d947c58351076b7343877a) by Citrus (https://sketchfab.com/citrusfriendd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Kirby" (https://sketchfab.com/3d-models/kirby-180c0f5600e44517a431c9b488a548e1) by El Alquimista𓁞 (https://sketchfab.com/ElCanciller) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

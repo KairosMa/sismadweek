@@ -1,11 +1,11 @@
 Model Information:
-* title:	Japanese Tatami Room
-* source:	https://sketchfab.com/3d-models/japanese-tatami-room-89d9cd7d90724d4d8463b6cfc652620d
-* author:	abot86 (https://sketchfab.com/abot86)
+* title:	Mint Jelly from Genshin Impact
+* source:	https://sketchfab.com/3d-models/mint-jelly-from-genshin-impact-7f41d8be3618464295774e27d5bf5676
+* author:	dimon63ht (https://sketchfab.com/dimon63ht)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Japanese Tatami Room" (https://sketchfab.com/3d-models/japanese-tatami-room-89d9cd7d90724d4d8463b6cfc652620d) by abot86 (https://sketchfab.com/abot86) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Mint Jelly from Genshin Impact" (https://sketchfab.com/3d-models/mint-jelly-from-genshin-impact-7f41d8be3618464295774e27d5bf5676) by dimon63ht (https://sketchfab.com/dimon63ht) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

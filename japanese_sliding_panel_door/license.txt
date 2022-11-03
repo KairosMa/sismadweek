@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Sliding Panel Door
+* source:	https://sketchfab.com/3d-models/japanese-sliding-panel-door-c9c8894a1c2e4e7daa5f89ca60b81a69
+* author:	FinnyInTheBinny (https://sketchfab.com/FinnyInTheBinny)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Sliding Panel Door" (https://sketchfab.com/3d-models/japanese-sliding-panel-door-c9c8894a1c2e4e7daa5f89ca60b81a69) by FinnyInTheBinny (https://sketchfab.com/FinnyInTheBinny) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

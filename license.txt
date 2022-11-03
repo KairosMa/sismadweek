@@ -1,11 +1,11 @@
 Model Information:
-* title:	Among Us character
-* source:	https://sketchfab.com/3d-models/among-us-character-1167417509bd43e0bdfa7e562c20136e
-* author:	JuanG3D (https://sketchfab.com/juang3d)
+* title:	Kirby
+* source:	https://sketchfab.com/3d-models/kirby-c28e636cf1fc41ec98a001a897f10721
+* author:	Ashley_koh (https://sketchfab.com/Ashley_koh)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Among Us character" (https://sketchfab.com/3d-models/among-us-character-1167417509bd43e0bdfa7e562c20136e) by JuanG3D (https://sketchfab.com/juang3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Kirby" (https://sketchfab.com/3d-models/kirby-c28e636cf1fc41ec98a001a897f10721) by Ashley_koh (https://sketchfab.com/Ashley_koh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

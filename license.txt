@@ -1,11 +1,11 @@
 Model Information:
-* title:	Adventurer's Breakfast Sandwich
-* source:	https://sketchfab.com/3d-models/adventurers-breakfast-sandwich-2494dad986d947c58351076b7343877a
-* author:	Citrus (https://sketchfab.com/citrusfriendd)
+* title:	Shoji Screen
+* source:	https://sketchfab.com/3d-models/shoji-screen-d3dec406af444af7b5025134005a9696
+* author:	Geraldo Pratama Wahyu Teddy (https://sketchfab.com/juyo)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Adventurer's Breakfast Sandwich" (https://sketchfab.com/3d-models/adventurers-breakfast-sandwich-2494dad986d947c58351076b7343877a) by Citrus (https://sketchfab.com/citrusfriendd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Shoji Screen" (https://sketchfab.com/3d-models/shoji-screen-d3dec406af444af7b5025134005a9696) by Geraldo Pratama Wahyu Teddy (https://sketchfab.com/juyo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

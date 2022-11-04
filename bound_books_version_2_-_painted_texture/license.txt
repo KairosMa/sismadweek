@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bound Books Version 2 - Painted Texture
+* source:	https://sketchfab.com/3d-models/bound-books-version-2-painted-texture-a5cce410728140c492855a109f219ac1
+* author:	liitransfield (https://sketchfab.com/liitransfield)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bound Books Version 2 - Painted Texture" (https://sketchfab.com/3d-models/bound-books-version-2-painted-texture-a5cce410728140c492855a109f219ac1) by liitransfield (https://sketchfab.com/liitransfield) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

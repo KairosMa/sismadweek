@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stairs
+* source:	https://sketchfab.com/3d-models/stairs-e2d8248414b74116b6e351142887593e
+* author:	FantasyDragon (https://sketchfab.com/FantasyDragon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stairs" (https://sketchfab.com/3d-models/stairs-e2d8248414b74116b6e351142887593e) by FantasyDragon (https://sketchfab.com/FantasyDragon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
